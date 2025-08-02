@@ -66,9 +66,88 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
-
 ### **10. 977: Squares of a Sorted Array**
 * **Problem Description:** Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+
+---
+
+### **11. 88: Merge Sorted Array**
+* **Problem Description:** You are given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, and two integers `m` and `n`, representing the number of elements in `nums1` and `nums2` respectively.
+
+* Merge `nums1` and `nums2` into a single array sorted in **non-decreasing order.**
+
+* The final sorted array should not be returned by the function, but instead be *stored inside* the array `nums1`. To accommodate this, `nums1` has a length of `m + n`, where the first `m` elements denote the elements that should be merged, and the last `n` elements are set to `0` and should be ignored. `nums2` has a length of `n`.
+
+---
+
+### **12. 27: Remove Element**
+* **Problem Description:** Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in `nums` **in-place.** The order of the elements may be changed. Then return the number of elements in `nums` which are not equal to `val`.
+
+* Consider the number of elements in `nums` which are not equal to `val` be `k`, to get accepted, you need to do the following things:
+    * Change the array nums such that the first `k` elements of `nums` contain the elements which are not equal to `val`. The remaining elements of `nums` are not important as well as the size of `nums`.
+    * Return `k`.
+
+---
+
+### **13. 26: Remove Duplicates from Sorted Array**
+* **Problem Description:** Given an integer array `nums` sorted in **non-decreasing order**, remove the duplicates **in-place** such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in `nums`.
+
+* Consider the number of unique elements of `nums` to be `k`, to get accepted, you need to do the following things:
+
+    * Change the array `nums` such that the first `k` elements of `nums` contain the unique elements in the order they were present in `nums` initially. The remaining elements of `nums` are not important as well as the size of `nums`.
+    * Return `k`.
+
+---
+
+### **14. 1346: Check If N and Its Double Exist**
+* **Problem Description:** Given an array `arr` of integers, check if there exist two indices `i` and `j` such that :
+* `i != j`
+* `0 <= i, j < arr.length`
+* `arr[i] == 2 * arr[j]`
+
+---
+
+### **15. 941: Valid Mountain Array**
+* **Problem Description:** Given an array of integers `arr`, return `true` if and only if it is a valid mountain array.
+* A mountain array must satisfy the following conditions:
+    1. `arr.length >= 3`
+    2. There exists some index `i` (0 < i < arr.length - 1) such that:
+        - `arr[0] < arr[1] < ... < arr[i]`
+        - `arr[i] > arr[i+1] > ... > arr[arr.length - 1]`
+
+---
+
+### **16. 283: Move Zeroes**
+* **Problem Description:** Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.
+* **Note** that you must do this in-place without making a copy of the array.
+
+---
+
+### **17. 905: Sort Array by Parity**
+* **Problem Description:** Given an integer array `nums`, move all the even integers at the beginning of the array followed by all the odd integers.
+* Return ***any array** that satisfies this condition*.
+
+---
+
+### **18. 1051: Height Checker**
+* **Problem Description:** A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in **non-decreasing order** by height. Let this ordering be represented by the integer array `expected` where `expected[i]` is the expected height of the `ith` student in line.
+* You are given an integer array `heights` representing the **current order** that the students are standing in. Each `heights[i]` is the height of the `i`th student in line (**0-indexed**).
+* Return *the **number of indices** where* `heights[i] != expected[i]`.
+
+---
+
+### **19. 414: Third Maximum Number**
+* **Problem Description:** Given an integer array `nums`, return *the **third distinct maximum** number in this array. If the third maximum does not exist, return the **maximum** number*.
+
+---
+
+### **20. 448: Find All Numbers Disappeared in an Array**
+* **Problem Description:** Given an array `nums` of `n` integers where `nums[i]` is in the range `[1, n]`, return *an array of all the integers in the range `[1, n]` that do not appear in `nums`*.
+
+---
+
+### **21. 1299: Replace Elements with Greatest Element on Right Side**
+* **Problem Description:** Given an array `arr`, replace every element in that array with the greatest element among the elements to its right, and replace the last element with `-1`.
 
 ---
 
