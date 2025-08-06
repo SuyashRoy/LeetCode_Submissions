@@ -183,6 +183,19 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **25. 118: Pascal's Triangle**
+* **Problem Description:** Given an integer `numRows`, return the first `numRows` of **Pascal's triangle**.
+* Example: 
+```
+    1
+    1 1
+   1 2 1
+  1 3 3 1
+ 1 4 6 4 1
+```
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
