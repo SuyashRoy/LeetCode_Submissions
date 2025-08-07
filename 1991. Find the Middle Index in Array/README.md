@@ -15,7 +15,7 @@ For more details, visit the [LeetCode Problem Page](https://leetcode.com/problem
 
 ## Approach
 
-The solution is implemented in the `solution.py` file. Below is a high-level overview of the approach:
+The solution is implemented in the `solution2.py` file. Below is a high-level overview of the approach:
 
 1. **Calculate Total Sum**: Compute the total sum of the array.
 2. **Iterate Through the Array**: Use a single pass to maintain a running sum of elements to the left of the current index.
