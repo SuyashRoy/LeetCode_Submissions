@@ -216,6 +216,17 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **28. Insertion Sort List**
+* **Problem Description:** Given the `head` of a singly linked list, sort the list using **insertion sort**, and return the sorted list's head.
+
+* The steps of the **insertion sort** algorithm:
+
+    - Insertion sort iterates, consuming one input element each repetition and growing a sorted output list.
+    - At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.
+    - It repeats until no input elements remain.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
