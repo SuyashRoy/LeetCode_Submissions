@@ -227,6 +227,13 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **29. 747: Largest Number At Least Twice of Others**
+* **Problem Description:** You are given an integer array `nums` where the largest integer is **unique**.
+
+* Determine whether the largest element in the array is **at least twice** as much as every other number in the array. If it is, return *the **index** of the largest element, or return `-1` otherwise*.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
