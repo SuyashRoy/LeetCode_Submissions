@@ -253,6 +253,14 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 * **Attempt 1:** Solved it with sorting
 * **Attempt 2:** Will solve it without sorting
 
+---
+
+### **32. 75: Sort Colors**
+* **Problem Description:** Given an array `nums` with `n` objects colored red, white, or blue, sort them **in-place** so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+
+* We will use the integers `0`, `1`, and `2` to represent the color red, white, and blue, respectively.
+
+* Must solve this problem without using the library's sort function.
 
 ---
 
