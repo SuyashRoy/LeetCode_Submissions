@@ -251,7 +251,7 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 * Note that it is the `k`$^{th}$ largest element in the sorted order, not the `k`$^{th}$ distinct element.
 
 * **Attempt 1:** Solved it with sorting
-* **Attempt 2:** Will solve it without sorting
+* **Attempt 2:** Solved it using Min Heaps, without sorting as mentioned in the problem statement
 
 ---
 
