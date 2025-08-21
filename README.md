@@ -273,6 +273,13 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **34. 2: Add Two Numbers**
+* **Problem Description:** You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+* You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
