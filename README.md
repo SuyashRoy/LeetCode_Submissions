@@ -280,6 +280,11 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **35. 3: 3. Longest Substring Without Repeating Characters**
+* **Problem Description:** Given a string `s`, find the length of the **longest substring** without duplicate characters.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
