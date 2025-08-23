@@ -280,8 +280,13 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
-### **35. 3: 3. Longest Substring Without Repeating Characters**
+### **35. 3: Longest Substring Without Repeating Characters**
 * **Problem Description:** Given a string `s`, find the length of the **longest substring** without duplicate characters.
+
+---
+
+### **36. 5: Longest Palindromic Substring**
+* **Problem Description:** Given a string `s`, return the **longest palindromic** substring in `s`.
 
 ---
 
