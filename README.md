@@ -314,6 +314,16 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **38. 46: Permutations**
+* **Problem Description:** Given an array `nums` of distinct integers, return all the possible permutations. You can return the answer in **any order**.
+
+---
+
+### **39. 47: Permutations II**
+* **Problem Description:** Given a collection of numbers, `nums`, that might contain duplicates, return *all* possible unique permutations ***in any order***.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
