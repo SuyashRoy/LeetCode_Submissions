@@ -324,6 +324,16 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **40. 15: 3Sum**
+* **Problem Description:** Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`. ***Notice that the solution set must not contain duplicate triplets.***
+
+---
+
+### **41. 53: Permutations II**
+* **Problem Description:** Given an integer array `nums`, find the subarray with the largest sum, and return its *sum*.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
