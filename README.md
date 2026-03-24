@@ -334,6 +334,16 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **42. 229: Majority Element II**
+* **Problem Description:** Given an integer array of size `n`, find all elements that appear more than `⌊ n/3 ⌋` times.
+
+---
+
+### **43. 560: Subarray Sum Equals K**
+* **Problem Description:** Given an array of integers `nums` and an integer `k`, return *the total number of subarrays whose sum equals to `k`.* A subarray is a contiguous **non-empty** sequence of elements within an array.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
