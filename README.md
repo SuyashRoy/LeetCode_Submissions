@@ -344,6 +344,17 @@ Enclosed are LeetCode problem solutions detailing progression in coding via grad
 
 ---
 
+### **44. 152: Maximum Product Subarray**
+* **Problem Description:** Given an integer array `nums`, find a subarray that has the largest product, and return *the product*. The test cases are generated so that the answer will fit in a **32-bit** integer.
+**Note** that the product of an array with a single element is the value of that element.
+
+---
+
+### **45. 560: Subarray Sum Equals K**
+* **Problem Description:** Given an array `nums` containing n distinct numbers in the range `[0, n]`, return *the only number* in the range *that is missing from the array*.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
