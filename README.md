@@ -371,6 +371,23 @@ You must decrease the overall operation steps as much as possible.
 
 ---
 
+### **48. 153: Find Minimum in Rotated Sorted Array**
+* **Problem Description:** Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0,1,2,4,5,6,7]` might become:
+`[4,5,6,7,0,1,2]` if it was rotated `4` times.
+`[0,1,2,4,5,6,7]` if it was rotated `7` times.
+Notice that **rotating** an array `[a[0], a[1], a[2], ..., a[n-1]]` 1 time results in the array `[a[n-1], a[0], a[1], a[2], ..., a[n-2]]`.
+Given the sorted rotated array `nums` of **unique** elements, return *the minimum element of this array.*
+You must write an algorithm that runs in `O(log n) time`.
+
+---
+### **49. 162: Find Peak Element**
+* **Problem Description:** A peak element is an element that is strictly greater than its neighbors.
+Given a **0-indexed integer** array `nums`, find a peak element, and return its index. If the array contains multiple peaks, return the index to **any of the peaks.**
+You may imagine that `nums[-1] = nums[n] = -∞`. In other words, an element is always considered to be strictly greater than a neighbor that is outside the array.
+You must write an algorithm that runs in `O(log n) time`.
+
+---
+
 These problems serve as foundational exercises in array manipulation, helping to strengthen core programming skills and enhance problem-solving abilities.
 
 ---
